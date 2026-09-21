@@ -1,4 +1,4 @@
-@Hope_National_Hospital_HostAddress = http://localhost:5164
+@Hope_National_Hospital_HostAddress = Backend-Url
 
 GET {{Hope_National_Hospital_HostAddress}}/weatherforecast/
 Accept: application/json

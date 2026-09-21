@@ -1,0 +1,6 @@
+@Hope_National_Hospital_HostAddress = http://localhost:5164
+
+GET {{Hope_National_Hospital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
